@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\R\\Ráďa škola\\2. ročník ZS\\Základy programování\\Verzovani\\Verzovani\\Verzovani.csproj",
+      "projectUniqueName": "C:\\Users\\lastovickovar\\Documents\\Verzovani\\Verzovani\\Verzovani.csproj",
       "projectName": "Verzovani",
-      "projectPath": "D:\\R\\Ráďa škola\\2. ročník ZS\\Základy programování\\Verzovani\\Verzovani\\Verzovani.csproj",
+      "projectPath": "C:\\Users\\lastovickovar\\Documents\\Verzovani\\Verzovani\\Verzovani.csproj",
       "packagesPath": "C:\\Users\\lastovickovar\\.nuget\\packages\\",
-      "outputPath": "D:\\R\\Ráďa škola\\2. ročník ZS\\Základy programování\\Verzovani\\Verzovani\\obj\\",
+      "outputPath": "C:\\Users\\lastovickovar\\Documents\\Verzovani\\Verzovani\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lastovickovar\\AppData\\Roaming\\NuGet\\NuGet.Config",
