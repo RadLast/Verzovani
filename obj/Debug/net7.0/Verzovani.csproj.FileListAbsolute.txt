@@ -1,0 +1,15 @@
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\bin\Debug\net7.0\Verzovani.exe
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\bin\Debug\net7.0\Verzovani.deps.json
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\bin\Debug\net7.0\Verzovani.runtimeconfig.json
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\bin\Debug\net7.0\Verzovani.dll
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\bin\Debug\net7.0\Verzovani.pdb
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.csproj.AssemblyReference.cache
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.AssemblyInfoInputs.cache
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.AssemblyInfo.cs
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.csproj.CoreCompileInputs.cache
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.dll
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\refint\Verzovani.dll
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.pdb
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\Verzovani.genruntimeconfig.cache
+C:\Users\lastovickovar\Documents\Verzovani\Verzovani\obj\Debug\net7.0\ref\Verzovani.dll
